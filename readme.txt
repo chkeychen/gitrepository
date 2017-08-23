@@ -1,5 +1,6 @@
 chen
 hadoop
+hadoop
 chne 
 you are work
 git is a distributed version control system.
